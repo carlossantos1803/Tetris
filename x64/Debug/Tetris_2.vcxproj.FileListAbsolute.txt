@@ -1,0 +1,2 @@
+C:\Users\Javier Quiroz\Documents\Carlos Santos\Pruebas c++\Tetris_2\x64\Debug\Tetris_2.exe
+C:\Users\Javier Quiroz\Documents\Carlos Santos\Pruebas c++\Tetris_2\x64\Debug\Tetris_2.pdb
